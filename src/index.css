@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* -------------------------------------------------- */
+/* Global page styles / background
+	 - Use Tailwind `@apply` so utilities remain consistent
+	 - `html, body, #root` full height keeps pages filling viewport
+*/
+html, body, #root {
+	height: 100%;
+}
+
+body {
+	background-color: #f2ebfd;
+	/* Background image: place your file at `public/background.png` */
+	background-image: url('/background.png');
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	@apply text-gray-800;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+/* -------------------------------------------------- */
+/* Leaflet map tweaks */
+.leaflet-container {
+	height: 100%;
+	width: 100%;
+}
+
+/* Make built-in controls slightly translucent on top of our background */
+.leaflet-control-zoom,
+.leaflet-control-attribution {
+	background: rgba(255,255,255,0.92);
+	border-radius: 0.5rem;
+}
+
+/* Popup appearance */
+.leaflet-popup-content-wrapper {
+	border-radius: 0.75rem;
+	box-shadow: 0 6px 18px rgba(15,23,42,0.06);
+}
+
+/* Train icon subtle shadow */
+.train-icon {
+	filter: drop-shadow(0 6px 18px rgba(15,23,42,0.08));
+}
+
+/* Small page helpers */
+.fade-in {
+	animation: fadeIn 320ms ease both;
+}
+
+@keyframes fadeIn {
+	from { opacity: 0; transform: translateY(4px); }
+	to   { opacity: 1; transform: translateY(0); }
+}
+
+/* Keep containers comfortable on small screens */
+@media (max-width: 640px) {
+	.container { padding-left: 1rem; padding-right: 1rem; }
+}
+
+/* End of file */
+
+/* -------------------------------------------------- */
+/* Component utilities used across pages */
+/* These provide consistent look for cards, buttons, inputs, badges, lists */
+
+/* Card */
+.card {
+	@apply bg-white rounded-xl shadow-md overflow-hidden;
+}
+.card-body {
+	@apply p-4;
+}
+.card-header {
+	@apply px-4 py-3 border-b border-gray-100 flex items-center justify-between;
+}
+
+/* Buttons */
+.btn {
+	@apply inline-flex items-center gap-2 px-4 py-2 rounded-md font-medium transition-colors;
+}
+.btn-primary { @apply bg-blue-600 text-white hover:bg-blue-700; }
+.btn-muted { @apply bg-gray-100 text-gray-800 hover:bg-gray-200; }
+
+/* Badges */
+.badge {
+	@apply inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-semibold;
+}
+.badge-fast { @apply bg-green-100 text-green-800; }
+.badge-slow { @apply bg-orange-100 text-orange-800; }
+
+/* Inputs / Search */
+.search-input {
+	@apply w-full px-4 py-2 rounded-lg border border-gray-200 bg-white text-sm placeholder-gray-400;
+}
+
+/* Results list */
+.results-list { @apply divide-y divide-gray-100 bg-white rounded-xl shadow-sm overflow-hidden; }
+.results-item { @apply p-4 flex items-center justify-between gap-4; }
+
+/* Train info */
+.train-meta { @apply text-sm text-gray-600; }
+.train-name { @apply font-semibold text-gray-800; }
+
+/* Route info */
+.route-list { @apply flex flex-wrap gap-2 items-center; }
+.route-stop { @apply text-xs text-gray-600 px-2 py-1 bg-gray-50 rounded-md; }
+
+/* Map wrapper to keep consistent sizing */
+.map-wrap { height: 500px; }
+
+/* Utilities */
+.muted { @apply text-gray-500; }
+.muted-small { @apply text-xs text-gray-500; }
+
+/* Accessibility focus ring for keyboard users */
+:focus { outline: none; }
+.focus-ring:focus { box-shadow: 0 0 0 3px rgba(59,130,246,0.15); border-radius: 0.375rem; }
+
+/* Small helpers for layout */
+.split-2 { display: grid; grid-template-columns: 1fr 320px; gap: 1rem; }
+
+@media (max-width: 1024px) {
+	.split-2 { grid-template-columns: 1fr; }
+}
+
+/* End additions */

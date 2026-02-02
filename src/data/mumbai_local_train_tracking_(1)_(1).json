@@ -1,0 +1,2702 @@
+[
+  {
+    "train_number": "ML10000",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10001",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10002",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10003",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10004",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML12000",
+    "station_name": "Andheri",
+    "latitude": 19.1197,
+    "longitude": 72.8470,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10006",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10007",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10008",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10009",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10010",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10011",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10012",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10013",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10014",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10015",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10016",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10017",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10018",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10019",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10020",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10021",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10022",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10023",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10024",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10025",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10026",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10027",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10028",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10029",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10030",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10031",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10032",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10033",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10034",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10035",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10036",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10037",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10038",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10039",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10040",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10041",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10042",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10043",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10044",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10045",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10046",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10047",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10048",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10049",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10050",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10051",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10052",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10053",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10054",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10055",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10056",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10057",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10058",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10059",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10060",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10061",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10062",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10063",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10064",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10065",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10066",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10067",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10068",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10069",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10070",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10071",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10072",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10073",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10074",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10075",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10076",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10077",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10078",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10079",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10080",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10081",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10082",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10083",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10084",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10085",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10086",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10087",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10088",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10089",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10090",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10091",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10092",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10093",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10094",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10095",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10096",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10097",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10098",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10099",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10100",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10101",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10102",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10103",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10104",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10105",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10106",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10107",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10108",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10109",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10110",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10111",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10112",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10113",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10114",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10115",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10116",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10117",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10118",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10119",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10120",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10121",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10122",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10123",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10124",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10125",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10126",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10127",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10128",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10129",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10130",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10131",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10132",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10133",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10134",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10135",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10136",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10137",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10138",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10139",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10140",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10141",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10142",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10143",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10144",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10145",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10146",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10147",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10148",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10149",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10150",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10151",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10152",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10153",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10154",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10155",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10156",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10157",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10158",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10159",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10160",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10161",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10162",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10163",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10164",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10165",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10166",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10167",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10168",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10169",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10170",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10171",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10172",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10173",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10174",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10175",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10176",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10177",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10178",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10179",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10180",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10181",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10182",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10183",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10184",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10185",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10186",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10187",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10188",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10189",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10190",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10191",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10192",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10193",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10194",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10195",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10196",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10197",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10198",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10199",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10200",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10201",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10202",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10203",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10204",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10205",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10206",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10207",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10208",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10209",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10210",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10211",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10212",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10213",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10214",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10215",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10216",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10217",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10218",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10219",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10220",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10221",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10222",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10223",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10224",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10225",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10226",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10227",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10228",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10229",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10230",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10231",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10232",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10233",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10234",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10235",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10236",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10237",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10238",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10239",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10240",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10241",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10242",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10243",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10244",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10245",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10246",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10247",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10248",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10249",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10250",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10251",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10252",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10253",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10254",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10255",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10256",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10257",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10258",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10259",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10260",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10261",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10262",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10263",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 3,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10264",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10265",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10266",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10267",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 2,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10268",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10269",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10270",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10271",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10272",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10273",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10274",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10275",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10276",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 2,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10277",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10278",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10279",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10280",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10281",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 7,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10282",
+    "station_name": "Thane",
+    "latitude": 19.21833,
+    "longitude": 72.97809,
+    "train_line": "Central",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10283",
+    "station_name": "Wadala Road",
+    "latitude": 19.0095,
+    "longitude": 72.8526,
+    "train_line": "Harbour",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10284",
+    "station_name": "Mankhurd",
+    "latitude": 19.068,
+    "longitude": 72.956,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10285",
+    "station_name": "Vashi",
+    "latitude": 19.047358,
+    "longitude": 73.023049,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10286",
+    "station_name": "Seawoods Darave",
+    "latitude": 19.0339,
+    "longitude": 73.0286,
+    "train_line": "Harbour",
+    "platform_number": 5,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10287",
+    "station_name": "Panvel",
+    "latitude": 18.9894,
+    "longitude": 73.1175,
+    "train_line": "Harbour",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10288",
+    "station_name": "Churchgate",
+    "latitude": 18.934886,
+    "longitude": 72.827164,
+    "train_line": "Western",
+    "platform_number": 7,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10289",
+    "station_name": "Marine Lines",
+    "latitude": 18.9446,
+    "longitude": 72.8236,
+    "train_line": "Western",
+    "platform_number": 1,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10290",
+    "station_name": "Grant Road",
+    "latitude": 18.9633,
+    "longitude": 72.8165,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10291",
+    "station_name": "Mumbai Central",
+    "latitude": 18.969015,
+    "longitude": 72.818278,
+    "train_line": "Western",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10292",
+    "station_name": "Dadar",
+    "latitude": 19.018335,
+    "longitude": 72.843214,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10293",
+    "station_name": "Andheri",
+    "latitude": 19.113668,
+    "longitude": 72.869711,
+    "train_line": "Western",
+    "platform_number": 6,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10294",
+    "station_name": "Borivali",
+    "latitude": 19.229147,
+    "longitude": 72.856888,
+    "train_line": "Western",
+    "platform_number": 5,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10295",
+    "station_name": "CSMT",
+    "latitude": 18.9402,
+    "longitude": 72.8354,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10296",
+    "station_name": "Byculla",
+    "latitude": 18.975,
+    "longitude": 72.834,
+    "train_line": "Central",
+    "platform_number": 4,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10297",
+    "station_name": "Kurla",
+    "latitude": 19.059984,
+    "longitude": 72.889999,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  },
+  {
+    "train_number": "ML10298",
+    "station_name": "Ghatkopar",
+    "latitude": 19.07283,
+    "longitude": 72.9099,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "slow"
+  },
+  {
+    "train_number": "ML10299",
+    "station_name": "Vikhroli",
+    "latitude": 19.0883,
+    "longitude": 72.905,
+    "train_line": "Central",
+    "platform_number": 8,
+    "fast_slow": "fast"
+  }
+]
